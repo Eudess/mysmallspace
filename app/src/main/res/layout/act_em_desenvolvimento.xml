@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.projeto.jadieleudes.mysmallspace.gui.EmDesenvolvimento">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="351dp"
+        android:layout_height="132dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Em Desenvolvimento"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVoltar"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnVoltar"
+        android:layout_width="275dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/colorBtnBlue"
+        android:onClick="voltar"
+        android:text="@string/btn_voltar"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/textView1"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/textView1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="72dp" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/eudes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f309e9c7f19eaf30b16efaf61dcdedb46581faf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="072405694480169db5ad334c95c18766afd2fbcb">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2f2d6a3951a856a0865bde4156e31483b330408b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/0a3cbb9d959564a79dadda026245f21cb14cfc97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b6851309fda70c47589be196595517a0a0ff545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/73be1c0b38ec0c552d4a6c2545063e06061eaa8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51f59778b48b6b6bfaecbc7a6f442364fbf7bf32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/d72b60ee5593d78a63b94d90d257ff832028abf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc2a78aec2a8111a836ab036eb9058a1b3c0e507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/d7eef96d8fe4d2cee8798e61f1d7ff59d05a637f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4157e5c2b09f9dce1c9468826d1864e726327cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/ddd37cbb92cd5578239f6a9b27b81d5c94fd1d76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b673a7a6fec0011d77a7b19ca69d1bbbc2c799d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/fec2138871ee88be201529bd19864ed3a15e233b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b8ff47a255b08dbc6de6fadf12fcfb31401db38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/16c41f7a0d67796912abdc61dc7cf1d08575269a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1807e298c84db6438e3df066e22e243648fa56c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/da4977902fff0090a0ab7da761f2326c34ef4d63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_248589c93357bd770191958c93c1a3a328c5cd92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/.android/build-cache/6072920947f41613d8392f3df73b36ee3cf9382f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e11eaaff0a42302243c8153e7d973093493bb035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/eudes/AndroidStudioProjects/MySmallSpace/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b7fd67a3e696018d24d990cc7ccd1e98287aa85/classes.dex" />
+    </item>
+
+</items>
